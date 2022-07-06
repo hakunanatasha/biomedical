@@ -47,8 +47,8 @@ chemicals and proteins and their likely relation to one other. Compounds are
 generally agonists (activators) or antagonists (inhibitors) of proteins.
 """
 
-_DATASETNAME = "chemprot"
-_DISPLAYNAME = "ChemProt"
+_DATASETNAME = "test_data"
+_DISPLAYNAME = "test_data"
 
 _HOMEPAGE = "https://biocreative.bioinformatics.udel.edu/tasks/biocreative-vi/track-5/"
 
